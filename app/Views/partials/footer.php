@@ -18,7 +18,8 @@
                         <li><i class="bi bi-chevron-right"></i> <a href="#about">About us</a></li>
                         <li><i class="bi bi-chevron-right"></i> <a href="#services">Services</a></li>
                         <li><i class="bi bi-chevron-right"></i> <a href="/terms-services">Terms of service</a></li>
-                        <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a href="/privacy-policy">Privacy policy</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a href="/user-agreement">User Agreement</a></li>
                     </ul>
                 </div>
 

@@ -895,7 +895,7 @@
                 </div>
             </div>
             <div class="row content">
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <p>
                         Important: please remember that the full text version is what’s legally binding – the quick
                         summary on the right is just to help you understand the legally binding version better.
